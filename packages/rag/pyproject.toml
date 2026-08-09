@@ -2,15 +2,16 @@
 name = "zeta-mlx-rag"
 version = "0.3.2"
 description = "RAG (Retrieval-Augmented Generation) for Zeta MLX"
-authors = ["ZetaLab <zeta9044@gmail.com>"]
+authors = ["Zeta4Lab <zeta4lab@users.noreply.github.com>"]
+license = "Apache-2.0"
 readme = "README.md"
-homepage = "https://github.com/zeta9044/zeta-mlx"
-repository = "https://github.com/zeta9044/zeta-mlx"
+homepage = "https://github.com/zeta4lab/zeta-mlx"
+repository = "https://github.com/zeta4lab/zeta-mlx"
 keywords = ["mlx", "rag", "retrieval", "apple-silicon"]
 classifiers = [
     "Development Status :: 4 - Beta",
     "Intended Audience :: Developers",
-    "License :: OSI Approved :: MIT License",
+    "License :: OSI Approved :: Apache Software License",
     "Operating System :: MacOS",
     "Programming Language :: Python :: 3.10",
     "Programming Language :: Python :: 3.11",

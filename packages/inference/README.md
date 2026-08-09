@@ -37,5 +37,5 @@ result = engine.generate(messages, params)
 
 ## Links
 
-- [GitHub](https://github.com/zeta9044/zeta-mlx)
-- [Documentation](https://github.com/zeta9044/zeta-mlx#readme)
+- [GitHub](https://github.com/zeta4lab/zeta-mlx)
+- [Documentation](https://github.com/zeta4lab/zeta-mlx#readme)

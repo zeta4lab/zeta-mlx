@@ -35,7 +35,7 @@ zeta-mlx/
 
 ```bash
 # 저장소 클론
-git clone https://github.com/zeta9044/zeta-mlx.git
+git clone https://github.com/zeta4lab/zeta-mlx.git
 cd zeta-mlx
 
 # 의존성 설치
@@ -179,4 +179,11 @@ poetry run mypy .
 
 ## 라이선스
 
-MIT License
+[Apache License 2.0](LICENSE)
+
+Copyright 2026 **제타포랩(zeta4lab)**
+
+- 대표: 최강유
+- https://zeta4.net
+
+자세한 저작권 및 고지 사항은 [NOTICE](NOTICE)를 참고하세요.
